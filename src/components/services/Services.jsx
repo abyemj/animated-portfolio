@@ -36,8 +36,8 @@ const Services = () => {
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          I focus on helping your brand grow
-          <br /> and move forward
+          I build standard responsive web applications
+          <br /> optimised for user experience and performance.
         </p>
         <hr />
       </motion.div>
@@ -52,7 +52,7 @@ const Services = () => {
           <h1>
             <motion.b whileHover={{color:"orange"}}>For Your</motion.b> Business.
           </h1>
-          <button>WHAT WE DO?</button>
+          <button>WHAT I DO?</button>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
@@ -60,12 +60,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>UI/UX </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Designing and Implementing amazing user friendly applications optimised for great user experience.
           </p>
           <button>Go</button>
         </motion.div>
@@ -73,12 +70,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>FrontEnd Development</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Utilising modern frontend technologies build dynamic and seo optimised web applications
           </p>
           <button>Go</button>
         </motion.div>
@@ -86,12 +80,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Backend Development</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Implementing backend technologies with firebase, NodeJS and express
           </p>
           <button>Go</button>
         </motion.div>
@@ -99,12 +90,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>DevOps</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Managing Infrastructure with modern DevOps practices.
           </p>
           <button>Go</button>
         </motion.div>
